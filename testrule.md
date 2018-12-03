@@ -1,8 +1,3 @@
----
-layout: rule
-title:  "This is a cool Rule"
-number: 1
----
 Heading
 =======
 
