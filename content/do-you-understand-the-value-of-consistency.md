@@ -4,7 +4,6 @@ title:  "Do you understand the value of consistency?"
 number: 1
 ---
 
-**look i can edit**
 If you need to do something more than once, then there should be a standard for it. At the heart of our philosophy on creating rules and standards is the idea of consistency. There are 4 main benefits you will get: s
   
 ![Consistency](/media/consitency.png)
